@@ -1,2 +1,2 @@
-select ord_date, salesman_id, ord_no, purch_amt
-from orders;
+SELECT ORD_DATE, SALESMAN_ID, ORD_NO, PURCH_AMT
+FROM ORDERS;
