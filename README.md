@@ -1,4 +1,4 @@
-<h2 align="center">Olá Pessoal!</h2>
+![image](https://github.com/Mateussouzasimao/SQL/assets/107272334/8b0a0ff3-4a49-4b5d-b884-abdbd79a4420)![image](https://github.com/Mateussouzasimao/SQL/assets/107272334/10f1769d-99bb-4ed2-ba80-a79a8175ab1d)<h2 align="center">Olá Pessoal!</h2>
 
 Este repositório foi cirado especialmente para fins de estudos de SQL utilizando o teradata, exercicios passado pelos instrutores do JumpStart.
 
@@ -35,3 +35,12 @@ Exercício 5. Na tabela orders, disponibilizar o número da venda(ord_no), valor
   - Obs: Calcular percentuais baseado no valor da venda em relação ao valor alvo.
 
 Exercício 6. Visualizar os detalhes dos clientes (tabela customer) que possuem seus IDs com os valores 3007, 3008 e 3009, retornando os campos customer_id, cust_name, city, grade e salesman_id.
+
+Exercício 7. Disponibilizar as informações de todos os vendedores (tabela salesman), exceto os vendedores cujos nomes comecem com qualquer letra entre 'A’ e 'L', retornando os campos salesman_id, name,   
+             city e commission.
+
+Exercício 8. Na tabela customer, disponibilize os dados dos clientes que terminem com a letra ‘n’, retornando os campos customer_id, cust_name, city, grade e salesman_id.
+
+Exercício 9. Na tabela employees_rh, disponibilizar o ID do cargo (job_id) e o salário máximo encontrado para cada cargo, onde o salário máximo for maior ou igual a $4000.
+
+Exercícios 10. Na tabela employees_rh, diponibilizar o salário total(soma), salário máximo, salário mínimo, e salário médio dos funcionários para cada cargo (job_id). Filtrar apenas o departamento com ID                = 90
