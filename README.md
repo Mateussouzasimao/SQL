@@ -1,4 +1,4 @@
-![image](https://github.com/Mateussouzasimao/SQL/assets/107272334/8b0a0ff3-4a49-4b5d-b884-abdbd79a4420)![image](https://github.com/Mateussouzasimao/SQL/assets/107272334/10f1769d-99bb-4ed2-ba80-a79a8175ab1d)<h2 align="center">Olá Pessoal!</h2>
+<h2>Olá Pessoal!</h2>
 
 Este repositório foi cirado especialmente para fins de estudos de SQL utilizando o teradata, exercicios passado pelos instrutores do JumpStart.
 
